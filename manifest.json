@@ -1,0 +1,9 @@
+{
+  "name": "Kid Pocket Ledger",
+  "short_name": "PocketLedger",
+  "description": "Family budget tracker for kids with parent supervision",
+  "start_url": ".",
+  "display": "standalone",
+  "background_color": "#e8f0ff",
+  "theme_color": "#5b8def"
+}
